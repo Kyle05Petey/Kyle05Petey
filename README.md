@@ -6,11 +6,11 @@
   - 
 
 <h2>📄 Certifications:</h2>
-- <b> Comptia Certifications</b>
-  -[Security+](https://www.credly.com/badges/ae0c82f4-05cf-4d27-841d-1dad9a7fc923/linked_in_profile)
-- <b>Google Certifications</b>
-  - [Data Analytics](https://www.credly.com/badges/1444f768-0649-471a-ad10-471abc462dd7/linked_in_profile)
-  - [Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/5MWQJU4M2CWT)
+<p></p><b> Comptia Certifications</b></p>
+  <p> - Security+ (https://www.credly.com/badges/ae0c82f4-05cf-4d27-841d-1dad9a7fc923/linked_in_profile)</p>
+<p><b>Google Certifications</b></p>
+  <p> - Data Analytics (https://www.credly.com/badges/1444f768-0649-471a-ad10-471abc462dd7/linked_in_profile)</p>
+  <p> - Advanced Data Analytics (https://www.coursera.org/account/accomplishments/specialization/certificate/5MWQJU4M2CWT)</p>
 
 <h2> 🤳 Connect with me:</h2>
 
